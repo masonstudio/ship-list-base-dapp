@@ -1,0 +1,13 @@
+.vercel
+.env.local
+.env*.local
+.env
+.env.*
+!.env.example
+vercel.txt
+Vercel.txt
+rpc.txt
+github.txt
+githubip.txt
+node_modules
+.next
